@@ -26,11 +26,17 @@ function [output1,output2] = function_name(input1,input2,input3)
 %
 % See also: OTHER_FUNCTION_NAME1,  OTHER_FUNCTION_NAME2
 
-% Author: Denis Gilbert, Ph.D., physical oceanography
-% Maurice Lamontagne Institute, Dept. of Fisheries and Oceans Canada
-% email address: gilbertd@dfo-mpo.gc.ca  
-% Website: http://www.qc.dfo-mpo.gc.ca/iml/
-% December 1999; Last revision: 12-May-2004
+% Project: M-file Header Template (https://github.com/cyber-g/M-file-Header-Template)
+%
+% Thanks:
+%    Denis Gilbert (2004). M-file Header Template
+%    (https://www.mathworks.com/matlabcentral/fileexchange/4908-m-file-header-template),
+%    MATLAB Central File Exchange. 
+% 
+% Author: Germain PHAM
+% Affiliation: C2S, Télécom Paris, IP Paris
+% email: 
+% July 2025; Last revision: 
 
 %------------- BEGIN CODE --------------
 
